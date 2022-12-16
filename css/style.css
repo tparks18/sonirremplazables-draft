@@ -227,6 +227,14 @@ blockquote p {
   height: 50px;
   margin-top: -7px;
 }
+.goal-icon {
+  height: 70px;
+  margin-top: -10px;
+}
+
+.goal-icon-2 {
+  height: 50px;
+}
 
 .loading {
   position: fixed;
